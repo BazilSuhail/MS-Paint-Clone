@@ -3,8 +3,6 @@
 
 #### Welcome to digital drawing toolkit, a simple and efficient crafting and editing toolkit.
 
-FlexiBase Shell is a lightweight, efficient database management tool designed for simplicity and performance. Built from the ground up, all database structures, including indexing, retrieval, and key-value storage, are custom-designed to meet the needs of modern data management.
-
 ### Key Features
 - Drawing Tools: Includes essential drawing tools such as brush, pencil, and eraser.
 - Color Selection: Allows users to choose from a variety of colors for drawing.
