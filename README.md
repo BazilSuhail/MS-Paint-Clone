@@ -11,6 +11,7 @@ FlexiBase Shell is a lightweight, efficient database management tool designed fo
 - Canvas Manipulation: Supports resizing of the canvas and undo/redo functionality.
 - File Operations: Enables users to save and load drawings for later editing or sharing.
 - User Interface: Designed with a user-friendly interface similar to MS Paint for intuitive use.
+- Shapes Toolkit Tools: Developed drawing of basic shapes and did integrated a custom N-polygon shape designer **(Give any number and activate the tool by pressing it - Then witness the magic happen)**.
 
 ## Tech Stack
 Language: **Python**
