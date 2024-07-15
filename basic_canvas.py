@@ -36,13 +36,12 @@ class ImageLoader:
         self.background_image = None
 
     def open_press(self):
-        if file_path := filedialog.askopenfilename(
-            filetypes=[("PNG files", "*.png")]
-        ):
+        file_path = filedialog.askopenfilename(filetypes=[("PNG files", "*.png")])
+        if file_path:
             image = Image.open(file_path)
             canvas_width = self.canvas.winfo_width()
             canvas_height = self.canvas.winfo_height()
-            image = image.resize((canvas_width, canvas_height), Image.ANTIALIAS)
+            image = image.resize((canvas_width, canvas_height), Image.LANCZOS)
             self.background_image = ImageTk.PhotoImage(image)
             self.canvas.create_image(0, 0, anchor="nw", image=self.background_image)
             

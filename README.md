@@ -42,3 +42,6 @@ This should open a Tkinter window if Tkinter is installed correctly.
 ```bash
    pip install tk
 ``` 
+### Interface and Functionality Example:
+![Tools](https://github.com/BazilSuhail/BazilSuhail/blob/main/paint1.png)
+![Basic Canvas](https://github.com/BazilSuhail/BazilSuhail/blob/main/paint2png)
