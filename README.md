@@ -45,7 +45,7 @@ This should open a Tkinter window if Tkinter is installed correctly.
 ``` 
 
 ## Execution
-To run run the this application, kindly run the **mainpy**.
-### Interface and Functionality Example:
+To run run the this application, kindly run <h4>**main.py**.</h4>
+### Screenshots and Interface of the application:
 ![Tools](https://github.com/BazilSuhail/BazilSuhail/blob/main/paint1.png)
 ![Basic Canvas](https://github.com/BazilSuhail/BazilSuhail/blob/main/paint2.png)
