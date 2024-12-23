@@ -1,7 +1,14 @@
 
 # Digital Drawing Tool
-
-#### Welcome to digital drawing toolkit, a simple and efficient crafting and editing toolkit.
+#### This project was assigned to me as a `Semester Final Project` in my `Object Orineted Programming` Course (2nd semster), by [Mr. Sarfraz Raza](https://www.linkedin.com/in/sarfraz-raza/).
+This The task was to create MS-Paint clone using all OOP concepts we learned in our courses. This desktop application mimics the basic functionality of MS Paint, providing a canvas where users can draw and manipulate graphics.
+### 🤖 Technical Stack 
+ <a href="#"> 
+   <img alt="Object-Oriented Programming" src="https://img.shields.io/badge/OOP-%230084FF.svg?&style=for-the-badge&logo=code&logoColor=white"/>
+   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+   <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-%23009639.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+ </a>
 
 ### Key Features
 - Drawing Tools: Includes essential drawing tools such as brush, pencil, and eraser.
