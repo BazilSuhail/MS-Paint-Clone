@@ -10,6 +10,9 @@ This The task was to create MS-Paint clone using all OOP concepts we learned in 
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
  </a>
 
+### Live Demo
+Check out the all details of this project at [PixelPaint](https://entitysafe.netlify.app/pages/AppList/-O2LtCFIPA0mDAnX9KNr). 
+
 ### Key Features
 - Drawing Tools: Includes essential drawing tools such as brush, pencil, and eraser.
 - Color Selection: Allows users to choose from a variety of colors for drawing.
